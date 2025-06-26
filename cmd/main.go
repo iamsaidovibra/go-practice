@@ -37,3 +37,6 @@ func main() {
 		fmt.Println()
 	}
 }
+
+//server and main directories are related - they should be ran simultaneously using 2 different terminals
+//this directory is not related to the manga_crud project

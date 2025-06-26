@@ -51,3 +51,5 @@ package main
 // 		conn.Write([]byte(target))
 // 	}
 // }
+
+//server and main directories are related - they should be ran simultaneously using 2 different terminals
